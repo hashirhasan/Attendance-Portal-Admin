@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:paddingTop="7sp"
+    android:paddingBottom="7sp"
+    android:paddingRight="13sp"
+    android:paddingLeft="13sp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:orientation="horizontal"
+        android:paddingTop="18sp"
+        android:paddingBottom="15sp"
+        android:background="@drawable/ripple_effect">
+
+    <LinearLayout
+        android:layout_width="150sp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="left"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="40dp">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Subject Name"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:id="@+id/name"/>
+
+    </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginLeft="65sp"
+            android:gravity="center">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:textStyle="bold|italic"
+                android:textSize="25sp"
+                android:id="@+id/attendancepercent"
+                android:textColor="@color/colorPrimary"
+                android:layout_marginBottom="2.5sp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Attendance"
+                android:textSize="12sp"
+                />
+        </LinearLayout>
+        <TextView
+            android:id="@+id/ac"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            />
+        <TextView
+            android:id="@+id/attended"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            />
+        <TextView
+            android:id="@+id/totalclasses"
+            android:layout_width="0dp"
+            android:layout_height="0dp"/>
+    </LinearLayout>
+</RelativeLayout>

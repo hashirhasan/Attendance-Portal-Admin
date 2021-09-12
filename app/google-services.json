@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "67776816965",
+    "firebase_url": "https://attendance-system-9f01c-default-rtdb.firebaseio.com",
+    "project_id": "attendance-system-9f01c",
+    "storage_bucket": "attendance-system-9f01c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67776816965:android:40ec80d8cb4651ae81802c",
+        "android_client_info": {
+          "package_name": "com.example.adminauotmaticattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67776816965-udmaaa5obdbers6a8tk33gpmrfkgr3f9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminauotmaticattendance",
+            "certificate_hash": "9c1828f27493ce5c574fd7ce34f28e2d8b406a5c"
+          }
+        },
+        {
+          "client_id": "67776816965-tngsm2p9aljj9vl8jcm512318que12df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDItY14GR5euZODVkcHze0rwyA0-n5GyhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67776816965-nfiddpkdg4c9gqeg36p7atoh98s48a33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67776816965:android:fadc062598a4433881802c",
+        "android_client_info": {
+          "package_name": "com.example.auotmaticattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67776816965-sep6cfcb7n50dcsskb33t6f88u6c6c5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.auotmaticattendance",
+            "certificate_hash": "9c1828f27493ce5c574fd7ce34f28e2d8b406a5c"
+          }
+        },
+        {
+          "client_id": "67776816965-tngsm2p9aljj9vl8jcm512318que12df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDItY14GR5euZODVkcHze0rwyA0-n5GyhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67776816965-nfiddpkdg4c9gqeg36p7atoh98s48a33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67776816965:android:9ab56d86b118ac5781802c",
+        "android_client_info": {
+          "package_name": "com.example.studentauotmaticattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67776816965-bgr7ml8ugnm2kt5f3pjpi1dq62qkqe7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studentauotmaticattendance",
+            "certificate_hash": "9c1828f27493ce5c574fd7ce34f28e2d8b406a5c"
+          }
+        },
+        {
+          "client_id": "67776816965-tngsm2p9aljj9vl8jcm512318que12df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDItY14GR5euZODVkcHze0rwyA0-n5GyhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67776816965-nfiddpkdg4c9gqeg36p7atoh98s48a33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
